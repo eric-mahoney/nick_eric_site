@@ -1,3 +1,12 @@
+body{
+	background-image: url('gucci.jpg');
+}
+
 h1 {
+	height: 100vh;
+	color: white;
 	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
