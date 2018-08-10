@@ -1,12 +1,11 @@
-body{
-	background-image: url('gucci.jpg');
+body {
+	font-family: 'Hind', sans-serif;
+}
+h1,h2,h3,h4 {
+	text-align: center;
 }
 
-h1 {
-	height: 100vh;
-	color: white;
-	text-align: center;
-	display: flex;
-	align-items: center;
-	justify-content: center;
+#soulja-boy {
+	width: 0;
+	height: 0;
 }
